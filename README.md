@@ -1,4 +1,4 @@
-# The Checkers Game - Automated Tests
+# The Checkers Game - UI Automated Tests
 
 This repository contains automated tests for the Checkers Game. The tests were written using Playwright and TypeScript and implemented following steps:
 
